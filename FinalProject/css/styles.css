@@ -1,0 +1,24 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+
+p {
+    font-size:16px;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: GhostWhite;
+}
+
+img {
+  border-radius: 3%;
+}
+
+.jumbotron {
+  color: GhostWhite;
+  text-shadow: 2px 2px Gray;
+  background-image: url('../img/MacbookAir.jpg');
+  background-size: cover;
+}
